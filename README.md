@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/MathiasSHAKOURI/click-banner/assets/122030473/5cd9ef49-9c01-408c-bc2e-95454b08f7a9" />
+</p>
+
 # Clickbanner
 
 ## Projet de Reconnaissance du Clavier en JavaScript
